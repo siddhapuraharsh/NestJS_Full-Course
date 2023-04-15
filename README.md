@@ -1,4 +1,4 @@
-# NestJS_Full-Course
+# NestJS Full Course
 A comprehensive and beginner-friendly course on the powerful and scalable Node.js web framework. Includes hands-on coding exercises, documentation, and additional resources. Ideal for developers looking to build robust web apps with NestJS.
 
 This repository is an excellent resource for those who want to learn NestJS, a powerful and scalable Node.js web framework. The course is beginner-friendly and provides a comprehensive overview of the framework, including its architecture, modules, controllers, services, and providers.
